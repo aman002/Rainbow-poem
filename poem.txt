@@ -4,7 +4,7 @@ blue
 blue 
 blue 
 orange
-blue 
-blue 
-
+ 
+purple 
+purple
 color of rainbow 
